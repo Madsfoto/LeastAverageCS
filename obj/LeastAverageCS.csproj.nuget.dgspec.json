@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mads\\source\\repos\\LeastAverageCS\\LeastAverageCS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mads\\source\\repos\\LeastAverageCS\\LeastAverageCS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mads\\source\\repos\\LeastAverageCS\\LeastAverageCS.csproj",
+        "projectName": "LeastAverageCS",
+        "projectPath": "C:\\Users\\mads\\source\\repos\\LeastAverageCS\\LeastAverageCS.csproj",
+        "packagesPath": "C:\\Users\\mads\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mads\\source\\repos\\LeastAverageCS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mads\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows10.0.22621.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows10.0.22621": {
+            "targetAlias": "net8.0-windows10.0.22621.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows10.0.22621": {
+          "targetAlias": "net8.0-windows10.0.22621.0",
+          "dependencies": {
+            "Microsoft.DotNet.ILCompiler": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )",
+              "autoReferenced": true
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.31, 10.0.22621.31]"
+            },
+            {
+              "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

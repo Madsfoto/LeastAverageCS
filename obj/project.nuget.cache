@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2f01PIee5UUiZwFbBv1AOw07+dn05p09oXj36e4JGHSMVsML7NXGUf6YU1truo/lidDrD7UxzssuSIWT71MYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mads\\source\\repos\\LeastAverageCS\\LeastAverageCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mads\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\mads\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\mads\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\mads\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512",
+    "C:\\Users\\mads\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512",
+    "C:\\Users\\mads\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

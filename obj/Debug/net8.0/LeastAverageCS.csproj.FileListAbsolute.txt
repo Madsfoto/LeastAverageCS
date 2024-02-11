@@ -1,0 +1,5 @@
+C:\Users\mads\source\repos\LeastAverageCS\obj\Debug\net8.0\LeastAverageCS.csproj.AssemblyReference.cache
+C:\Users\mads\source\repos\LeastAverageCS\obj\Debug\net8.0\LeastAverageCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mads\source\repos\LeastAverageCS\obj\Debug\net8.0\LeastAverageCS.AssemblyInfoInputs.cache
+C:\Users\mads\source\repos\LeastAverageCS\obj\Debug\net8.0\LeastAverageCS.AssemblyInfo.cs
+C:\Users\mads\source\repos\LeastAverageCS\obj\Debug\net8.0\LeastAverageCS.csproj.CoreCompileInputs.cache
